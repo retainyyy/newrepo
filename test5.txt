@@ -1,3 +1,0 @@
-Git is a version system.
-Git is yellow.
-Git is black.
