@@ -7,4 +7,8 @@ Creating a new branch is quick.
 Update file.
 Update new file.
 A new file.
+<<<<<<< Updated upstream
 Git is a good tool.
+=======
+>>>>>>> Stashed changes
+Add stash test.
