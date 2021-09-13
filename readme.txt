@@ -8,7 +8,13 @@ Update file.
 Update new file.
 A new file.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Git is a good tool.
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 Add stash test.
