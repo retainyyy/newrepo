@@ -3,3 +3,4 @@ never give up.
 Work hard.
 Lofty ambition.
 retain.
+like.
