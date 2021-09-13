@@ -9,3 +9,4 @@ Update new file.
 A new file.
 Git is a good tool.
 Add stash test.
+study hard, improve every day.
